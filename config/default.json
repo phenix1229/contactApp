@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb://localhost/contactApp"
+    "mongoURI":"mongodb://localhost/contactApp",
+    "jwtSecret":"secret"
 }
